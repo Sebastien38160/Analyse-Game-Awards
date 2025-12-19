@@ -1,4 +1,4 @@
-# 🏆 Analyse des Game Awards (2014-2018)
+# 🏆 Performance et Tendances des Game Awards (2014-2018)
 
 ## 📌 Présentation du Projet
 Ce dashboard Power BI explore l'univers des Game Awards. Il permet d'analyser les tendances de nominations et de victoires par éditeur, par catégorie et par année, offrant une vue d'ensemble sur l'excellence de l'industrie vidéoludique.
